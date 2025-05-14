@@ -26,6 +26,6 @@
   
 * BIO512: Bioinformatic for RNA and protein analysis
   * [Set up and data download](https://github.com/BDC-training/HT25/wiki/BIO512-I:-Set-up)
-  * [QC](https://github.com/BDC-training/HT25/wiki/BIO512-I:-QC)
-  * [Mapping](https://github.com/BDC-training/HT25/wiki/BIO512-I:-Mapping)
-  * [Annotation](https://github.com/BDC-training/HT25/wiki/BIO512-I:-Annotation)
+  * [QC](https://github.com/BDC-training/HT25/wiki/BIO512-II:-QC)
+  * [Mapping](https://github.com/BDC-training/HT25/wiki/BIO512-III:-Mapping)
+  * [Annotation](https://github.com/BDC-training/HT25/wiki/BIO512-IV:-Annotation)
