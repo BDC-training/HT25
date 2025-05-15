@@ -14,7 +14,7 @@
   * [RNAseq gene expression - paired](https://github.com/BDC-training/HT25/wiki/NGS-V:-RNAseq) 
   
 * BMA231: Next Generation Sequencing data analysis with clinical applications
-  * Exploring SARS-CoV-2 with [Sequence Bioinformatics](https://github.com/bBDC-training/HT25/wiki/BMA231-I:-Sequence-Bioinformatics)
+  * Exploring SARS-CoV-2 with [Sequence Bioinformatics](https://github.com/BDC-training/HT25/wiki/BMA231-I:-Sequence-Bioinformatics)
   * [QC and Mapping](https://github.com/BDC-training/HT25/wiki/BMA231-II:-QC-and-mapping) of NGS data
   * [Alignment visualization](https://github.com/BDC-training/HT25/wiki/BMA231-III:-Alignment-visualization) using IGV
   * [Variant analysis](https://github.com/BDC-training/HT25/wiki/BMA231-IV:-Variant-analysis) of two siblings with PLS 
